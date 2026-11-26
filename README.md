@@ -39,5 +39,7 @@ FASTA formatted DNA sequences.
 3. Run the Python cells.
 4. View the analysis and download the CSV report.
 
-## Author
-Your Name
+## Authors
+krishnendu K M
+Suraj S
+
